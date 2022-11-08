@@ -1,16 +1,17 @@
-## Hi! 👋 I'm Guille
+## Hi! 👋 I'm Guillermo 
 
-- 🌍  I'm based in Buenos Aires, Argentina
-- 👨‍💻 Working as a Back-end Tech Leader at [mydigitalnomads](https://mydigitalnomads.co.uk/).
-- 📚 I'm a student of Computer Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 Currently learning Laravel. (Aca nose poner lo que estas aprendiendo o lo que quieras)
-- 🌱 Passionate about Back End development, looking forward to know more about DevOps and Cloud Computing.
-- :tennis: I also have a passion for Tenis as I dedicated lots of years to it! (o si queres l cambiamos como quieras
-- :heart: I love programming and learning every day to become the best developer I can be :) (aca si queres dejamos lo mismo o como quieras)
+- 🌍  I'm based in Buenos Aires, Argentina.
+- 👨‍💻 Working as a Back-End Tech Leader at [mydigitalnomads](https://mydigitalnomads.co.uk/).
+- 📚 I'm a student of Software Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
+- 🧠 I consider myself a Laravel expert, with five years of experience.
+- 🌱 Passionate about coding and working hard every day to be the best developer I can.
+- :muscle: Love challenges and pursuing long-term goals.
+- :heart: Also I love creating solutions to solve problems and the feeling of a job well done.
+- :tennis: I also have a passion for Tennis and I dedicated lots of years to it :upside_down_face:
 - 📫 How to reach me:    
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscopanozzo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpanozzo.contact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-felipetti-1953361a0/)
+[![Microsot Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guill388@hotmail.com)
 
 <div align="center"><img width="250px" height="300px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
 
@@ -18,19 +19,16 @@
  <h3>:hammer_and_wrench: Tech Stack: </h3> 
  <br />
  
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
  <img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
- <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
  
  <br/>
  <br/>
