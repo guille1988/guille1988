@@ -6,8 +6,8 @@
 - 🧠 I consider myself a Laravel expert, with five years of experience.
 - 🌱 Passionate about coding and working hard every day to be the best developer I can.
 - :muscle: Love challenges and pursuing long-term goals.
-- :heart: Also I love creating solutions to solve problems and the feeling of a job well done.
-- :tennis: I also have a passion for Tennis and I dedicated lots of years to it :upside_down_face:
+- :heart: Adore creating solutions to solve problems and the feeling of a job well done.
+- :tennis: I also enjoy tennis and dedicated many years to it :upside_down_face:
 - 📫 How to reach me:    
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-felipetti-1953361a0/)
