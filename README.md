@@ -13,7 +13,13 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-felipetti-1953361a0/)
 [![Microsot Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guill388@hotmail.com)
 
-<div align="center"><img width="250px" height="300px" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" /></div>
+<br />
+<br />
+
+<div align="center"><img width="500px" height="300px" src="https://media3.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=790b7611f62074456571d1fe389badde2b423e444f8d2067&rid=giphy.gif&ct=g" /></div>
+
+<br />
+<br />
 
 <div>
  <h3>:hammer_and_wrench: Tech stack: </h3> 
