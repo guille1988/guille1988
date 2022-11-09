@@ -48,7 +48,3 @@
   
  <br /><br />
 </div>
-
-<h3>Projects</h3>
-
-</a><a href="https://github.com/guille1988/service-layer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=guille1988&repo=service-layer&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/guille1988/kernel-so" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=guille1988&repo=kernel-so&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en" />
