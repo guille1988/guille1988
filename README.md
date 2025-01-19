@@ -3,7 +3,7 @@
 - 🌍  I'm based in Buenos Aires, Argentina.
 - 👨‍💻 Working as a Back-End Tech Leader at [mydigitalnomads](https://mydigitalnomads.co.uk/).
 - 📚 I'm a student of Software Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 I consider myself a Laravel expert, with five years of experience.
+- 🧠 I consider myself a Laravel expert, with more than eight years of experience.
 - 🌱 Passionate about coding and working hard every day to be the best developer I can.
 - :muscle: Love challenges and pursuing long-term goals.
 - :heart: Adore creating solutions to solve problems and the feeling of a job well done.
