@@ -1,9 +1,9 @@
 ## Hi! 👋 I'm Guillermo 
 
 - 🌍  I'm based in Buenos Aires, Argentina.
-- 👨‍💻 Working as a Back-End Tech Leader at [mydigitalnomads](https://mydigitalnomads.co.uk/).
+- 👨‍💻 Working as a Fullstack engineer - Back-End Tech Leader at [Campaign Nucleus](https://www.campaignnucleus.com/).
 - 📚 I'm a student of Software Engineering at [UTN.FRBA](https://www.frba.utn.edu.ar/).
-- 🧠 I consider myself a Laravel expert, with more than eight years of experience.
+- 🧠 I consider myself an expert developer, with more than eight years of experience.
 - 🌱 Passionate about coding and working hard every day to be the best developer I can.
 - :muscle: Love challenges and pursuing long-term goals.
 - :heart: Adore creating solutions to solve problems and the feeling of a job well done.
@@ -24,7 +24,14 @@
 <div>
  <h3>:hammer_and_wrench: Tech stack: </h3> 
  <br />
- 
+
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-00B894?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chi-222222?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
